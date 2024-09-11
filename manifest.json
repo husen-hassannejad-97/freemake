@@ -1,6 +1,6 @@
 {
-    "name": "freemake_page",
-    "short_name": "freemake_page",
+    "name": "web_test",
+    "short_name": "web_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
